@@ -3,5 +3,7 @@
     <pages>
         <page name='apple-and-orange'/>
         <page name='grading-students'/>
+        <page name='number-line-jumps'/>
+        <page name='between-to-sets'/>
     </pages>
 </playground>
