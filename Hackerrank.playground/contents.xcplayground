@@ -5,5 +5,7 @@
         <page name='grading-students'/>
         <page name='number-line-jumps'/>
         <page name='between-to-sets'/>
+        <page name='breaking-the-records'/>
+        <page name='migratory-birds'/>
     </pages>
 </playground>
