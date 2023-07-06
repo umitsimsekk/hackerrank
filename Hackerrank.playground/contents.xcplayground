@@ -9,5 +9,7 @@
         <page name='migratory-birds'/>
         <page name='day-of-the-programmer'/>
         <page name='bill-division'/>
+        <page name='electronics-shop'/>
+        <page name='drawing-book'/>
     </pages>
 </playground>
