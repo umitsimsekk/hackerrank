@@ -11,5 +11,7 @@
         <page name='bill-division'/>
         <page name='electronics-shop'/>
         <page name='drawing-book'/>
+        <page name='picking-numbers'/>
+        <page name='cats-and-a-mouse'/>
     </pages>
 </playground>
