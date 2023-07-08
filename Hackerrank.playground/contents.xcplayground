@@ -13,5 +13,7 @@
         <page name='drawing-book'/>
         <page name='picking-numbers'/>
         <page name='cats-and-a-mouse'/>
+        <page name='the-hurdle-race'/>
+        <page name='designer-pdf-viewer'/>
     </pages>
 </playground>
