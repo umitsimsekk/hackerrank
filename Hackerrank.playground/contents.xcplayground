@@ -19,5 +19,7 @@
         <page name='angry-professor'/>
         <page name='viral-advertising'/>
         <page name='beautiful-days-at-the-movies'/>
+        <page name='circular-array-rotation'/>
+        <page name='permutation-equation'/>
     </pages>
 </playground>
