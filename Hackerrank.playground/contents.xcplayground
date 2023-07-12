@@ -20,6 +20,8 @@
         <page name='viral-advertising'/>
         <page name='beautiful-days-at-the-movies'/>
         <page name='circular-array-rotation'/>
-        <page name='permutation-equation'/>
+        <page name='sequence-equation'/>
+        <page name='save-the-prisoner'/>
+        <page name='jumping-on-the-clouds-revisited'/>
     </pages>
 </playground>
