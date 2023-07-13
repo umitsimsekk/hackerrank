@@ -23,5 +23,7 @@
         <page name='sequence-equation'/>
         <page name='save-the-prisoner'/>
         <page name='jumping-on-the-clouds-revisited'/>
+        <page name='find-digits'/>
+        <page name='append-and-delete'/>
     </pages>
 </playground>
