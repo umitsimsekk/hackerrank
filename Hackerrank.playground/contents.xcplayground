@@ -25,5 +25,7 @@
         <page name='jumping-on-the-clouds-revisited'/>
         <page name='find-digits'/>
         <page name='append-and-delete'/>
+        <page name='library-fine'/>
+        <page name='sherlock-and-squares'/>
     </pages>
 </playground>
