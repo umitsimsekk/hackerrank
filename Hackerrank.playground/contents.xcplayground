@@ -27,5 +27,7 @@
         <page name='append-and-delete'/>
         <page name='library-fine'/>
         <page name='sherlock-and-squares'/>
+        <page name='cut-the-sticks'/>
+        <page name='equality-in-a-array'/>
     </pages>
 </playground>
