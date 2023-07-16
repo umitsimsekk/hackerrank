@@ -29,5 +29,7 @@
         <page name='sherlock-and-squares'/>
         <page name='cut-the-sticks'/>
         <page name='equality-in-a-array'/>
+        <page name='kaprekar-numbers'/>
+        <page name='taum-and-bday'/>
     </pages>
 </playground>
