@@ -29,7 +29,11 @@
         <page name='sherlock-and-squares'/>
         <page name='cut-the-sticks'/>
         <page name='equality-in-a-array'/>
-        <page name='kaprekar-numbers'/>
         <page name='taum-and-bday'/>
+        <page name='beautiful-triplets'/>
+        <page name='modified-kaprekar-numbers'/>
+        <page name='minimum-distances'/>
+        <page name='simple-array-sum'/>
+        <page name='compate-the-triplets'/>
     </pages>
 </playground>
