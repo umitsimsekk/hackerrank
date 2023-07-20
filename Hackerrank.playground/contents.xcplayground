@@ -37,5 +37,7 @@
         <page name='compate-the-triplets'/>
         <page name='diagonal-difference'/>
         <page name='a-very-big-sum'/>
+        <page name='plus-minus'/>
+        <page name='staircase'/>
     </pages>
 </playground>
