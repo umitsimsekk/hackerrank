@@ -39,5 +39,8 @@
         <page name='a-very-big-sum'/>
         <page name='plus-minus'/>
         <page name='staircase'/>
+        <page name='mini-max-sum'/>
+        <page name='birthday-cake-candles'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
