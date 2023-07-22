@@ -22,3 +22,4 @@ func plusMinus(arr: [Int]) -> Void {
     print(negativeValues/count)
     print(zeroValues/count)
 }
+plusMinus(arr: [-4, 3, -9, 0, 4, 1])
