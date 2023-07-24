@@ -4,7 +4,7 @@
         <page name='apple-and-orange'/>
         <page name='grading-students'/>
         <page name='number-line-jumps'/>
-        <page name='between-to-sets'/>
+        <page name='between-two-sets'/>
         <page name='breaking-the-records'/>
         <page name='migratory-birds'/>
         <page name='day-of-the-programmer'/>
@@ -42,6 +42,7 @@
         <page name='mini-max-sum'/>
         <page name='birthday-cake-candles'/>
         <page name='time-conversion'/>
-        <page name='Untitled Page 2'/>
+        <page name='counting-valleys'/>
+        <page name='divisible-sum-pairs'/>
     </pages>
 </playground>
