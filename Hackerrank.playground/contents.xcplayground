@@ -44,5 +44,7 @@
         <page name='time-conversion'/>
         <page name='counting-valleys'/>
         <page name='divisible-sum-pairs'/>
+        <page name='climbing-the-leaderboard'/>
+        <page name='sales-by-match'/>
     </pages>
 </playground>
