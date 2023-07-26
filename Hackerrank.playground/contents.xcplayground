@@ -46,5 +46,7 @@
         <page name='divisible-sum-pairs'/>
         <page name='climbing-the-leaderboard'/>
         <page name='sales-by-match'/>
+        <page name='extra-long-factorials'/>
+        <page name='non-divisible-subset'/>
     </pages>
 </playground>
