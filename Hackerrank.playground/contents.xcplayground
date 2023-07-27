@@ -48,5 +48,7 @@
         <page name='sales-by-match'/>
         <page name='extra-long-factorials'/>
         <page name='non-divisible-subset'/>
+        <page name='repeated-string'/>
+        <page name='jumping-on-the-clouds'/>
     </pages>
 </playground>
