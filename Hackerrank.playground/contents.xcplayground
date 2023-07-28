@@ -50,5 +50,7 @@
         <page name='non-divisible-subset'/>
         <page name='repeated-string'/>
         <page name='jumping-on-the-clouds'/>
+        <page name='acm-icpc-team'/>
+        <page name='encryption'/>
     </pages>
 </playground>
