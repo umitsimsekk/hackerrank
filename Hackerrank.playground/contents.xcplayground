@@ -52,5 +52,9 @@
         <page name='jumping-on-the-clouds'/>
         <page name='acm-icpc-team'/>
         <page name='encryption'/>
+        <page name='halloween-sale'/>
+        <page name='chocolate-feast'/>
+        <page name='the-time-in-words'/>
+        <page name='service-lane'/>
     </pages>
 </playground>
