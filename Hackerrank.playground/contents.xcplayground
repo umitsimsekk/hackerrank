@@ -56,5 +56,7 @@
         <page name='chocolate-feast'/>
         <page name='the-time-in-words'/>
         <page name='service-lane'/>
+        <page name='lisa-workbook'/>
+        <page name='cavity-map'/>
     </pages>
 </playground>
