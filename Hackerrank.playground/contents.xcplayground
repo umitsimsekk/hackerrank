@@ -58,5 +58,7 @@
         <page name='service-lane'/>
         <page name='lisa-workbook'/>
         <page name='cavity-map'/>
+        <page name='strange-counter'/>
+        <page name='camel-case'/>
     </pages>
 </playground>
