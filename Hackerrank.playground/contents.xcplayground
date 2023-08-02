@@ -60,5 +60,7 @@
         <page name='cavity-map'/>
         <page name='strange-counter'/>
         <page name='camel-case'/>
+        <page name='mars-exploration'/>
+        <page name='pangrams'/>
     </pages>
 </playground>
