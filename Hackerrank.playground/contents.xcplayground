@@ -62,5 +62,11 @@
         <page name='camel-case'/>
         <page name='mars-exploration'/>
         <page name='pangrams'/>
+        <page name='icecream-parlor'/>
+        <page name='funny-string'/>
+        <page name='Untitled Page 4'/>
+        <page name='Untitled Page 5'/>
+        <page name='Untitled Page 6'/>
+        <page name='find-the-median'/>
     </pages>
 </playground>
