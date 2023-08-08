@@ -68,5 +68,7 @@
         <page name='closest-number'/>
         <page name='marcs-cakewalk'/>
         <page name='find-the-median'/>
+        <page name='lonely-integer'/>
+        <page name='maximizing-xor'/>
     </pages>
 </playground>
