@@ -70,5 +70,8 @@
         <page name='find-the-median'/>
         <page name='lonely-integer'/>
         <page name='maximizing-xor'/>
+        <page name='mark-and-toys'/>
+        <page name='flipping-bits'/>
+        <page name='two-arrays'/>
     </pages>
 </playground>
