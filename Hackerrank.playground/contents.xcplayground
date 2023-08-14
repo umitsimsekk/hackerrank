@@ -71,8 +71,8 @@
         <page name='lonely-integer'/>
         <page name='maximizing-xor'/>
         <page name='mark-and-toys'/>
-        <page name='flipping-bits'/>
         <page name='two-arrays'/>
         <page name='priyanka-and-toys'/>
+        <page name='flipping-bits'/>
     </pages>
 </playground>
