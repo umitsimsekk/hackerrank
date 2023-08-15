@@ -74,5 +74,7 @@
         <page name='two-arrays'/>
         <page name='priyanka-and-toys'/>
         <page name='flipping-bits'/>
+        <page name='counting-sort-2'/>
+        <page name='counting-sort-1'/>
     </pages>
 </playground>
